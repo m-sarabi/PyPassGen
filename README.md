@@ -9,11 +9,7 @@ Option to change the theme of the UI for a more personalized experience
 
 ## Getting Started
 ### Usage
-To run PyPassGen, navigate to the directory where you cloned the repository and run the following command:
-
-```
-python pypassgen.py
-```
+To run PyPassGen, simply download the exe file from the releases page and run it.
 This will launch the PyPassGen GUI. From here, you can customize the password settings and generate strong, secure passwords that meet your specific requirements. You can save generated passwords to a file, read passwords from a file, and copy passwords to clipboard for easy use.
 
 ### Customizing the Theme
