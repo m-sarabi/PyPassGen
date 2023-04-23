@@ -26,6 +26,3 @@ def generate_password(length: int, num_special_chars: int, excl_chars: str):
     password = ''.join(random.sample(password, len(password)))
     # return the password
     return password
-
-
-
